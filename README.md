@@ -43,9 +43,7 @@ plt.show()
 
 ```
 ## Output
-![Output](/expec.png)
-![Output](/gott.png)
-![Output](/graph.png)
+![Output](/uni.png)
 
 
 
